@@ -98,6 +98,5 @@ Fique à vontade para abrir issues e pull requests para contribuir com melhorias
 
 ## 📞 Contato
 Se tiver dúvidas ou sugestões, entre em contato via:
-- **Email:** seuemail@exemplo.com
-- **LinkedIn:** [Seu Perfil](https://www.linkedin.com/in/c%C3%A9zarmaldini/)
-- **GitHub:** [Seu GitHub](https://github.com/cezarmaldini)
+- **[LinkedIn](https://www.linkedin.com/in/c%C3%A9zarmaldini/)**
+- **[GitHub](https://github.com/cezarmaldini)**
