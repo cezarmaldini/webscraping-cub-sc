@@ -14,7 +14,7 @@ Este script em Python extrai e armazena os valores do CUB (Custo Unitário Bási
 
 ## 🛠 Tecnologias Utilizadas
 
-- **Python 3.x**
+- **Python 3.12.5**
 - **Requests** - Para fazer requisições HTTP e acessar a página do CUB.
 - **BeautifulSoup4** - Para extrair dados do HTML.
 - **Pandas** - Para manipulação de dados.
